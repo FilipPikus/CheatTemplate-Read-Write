@@ -1,4 +1,6 @@
 # CheatTemplate-Read-Write
+
+#THIS IS FOR WINDOWS!!!!!!!!!!
 German :
 Hallo willkommen zur meinen selbst programmierten Cheat-Template.
 Der Cheat-Template kann in einen Prozess Schreiben/Lesen.
