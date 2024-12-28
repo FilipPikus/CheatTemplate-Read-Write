@@ -1,6 +1,6 @@
 # CheatTemplate-Read-Write
 
-# This is for windows
+# THIS IS FOR WINDOWS!!!
 
 German :
 Hallo willkommen zur meinen selbst programmierten Cheat-Template.
