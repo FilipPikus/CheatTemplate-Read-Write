@@ -8,11 +8,11 @@ Der Cheat-Template kann in einen Prozess Schreiben/Lesen.
 
 in den "targetProcessName" setzt du auf deinen prozessnamen.
 in den "targetAddress" setzt du deine adresse wo du schreiben willst (Ab besten findes du das in cheat engine herraus).
-
+Das ist nur zum Experenmentieren da
 Viel Spaß beim Cheaten!
 
 English:
-
+This is only for experment
 Hello, welcome to my self-programmed cheat template.
 The cheat template can read/write into a process.
 
